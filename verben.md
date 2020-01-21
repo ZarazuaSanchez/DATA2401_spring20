@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="de" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <title>Verben</title>
-  </head>
-  <body>
-
     <h1>Verbs</h1>
 
     </div>
@@ -83,7 +74,7 @@
           <td>sparst</td>
           <td>du</td>
           <td>sparen</td>
-          <td>save *money</td>
+          <td>save money</td>
         </tr>
         <tr>
           <td>bist</td>
@@ -123,6 +114,3 @@
         </tr>
       </table>
     </div>
-
-  </body>
-</html>
